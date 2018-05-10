@@ -20,6 +20,14 @@
 
 ![](https://user-images.githubusercontent.com/16547949/39871367-8e0437fc-5432-11e8-8202-c07874eab7eb.JPG)
 
+## 13 Whirly bird
+
+![](https://user-images.githubusercontent.com/9906718/39871204-1a0ca3a2-5432-11e8-9dd9-c9e1f7623763.JPG)
+
+## 14 Whirly bird
+
+![](https://user-images.githubusercontent.com/9906718/39871205-1a6dd24e-5432-11e8-9cdc-dbd7e33eb0ef.JPG)
+
 ## 21-22 Whirly bird
 
 ![](https://github.com/githubschool/dow-dmc/blob/5bd6362c38187d501e783df1f68ebf435d0ded4e/missing-pages/helicopter/20180320_220445.jpg?raw=true)
@@ -39,6 +47,10 @@
 
 # Trailer
 
+## 1-2 Trailer
+
+![](https://user-images.githubusercontent.com/18329853/39771400-0b2fe452-52c0-11e8-9164-22f22ac2fea5.jpg)
+
 ## 12 Trailer
 
 ![](https://user-images.githubusercontent.com/9906718/39871720-bbbcd9be-5433-11e8-8b17-867ce93bc0a3.JPG)
@@ -47,7 +59,17 @@
 
 ![](https://user-images.githubusercontent.com/9906718/39871718-bb2068f4-5433-11e8-8e02-1a5823114e0b.JPG)
 
+## 14 Trailer
 
+![](https://user-images.githubusercontent.com/6351798/39871313-63c45698-5432-11e8-9d78-4479e4caac34.JPG)
+
+## 15-16 Trailer
+
+![](https://user-images.githubusercontent.com/6351798/39871307-5fc3a9a4-5432-11e8-8f8f-2bc86834fa4d.JPG)
+
+## Finished trailer
+
+![](https://user-images.githubusercontent.com/18329853/39771534-8be409d4-52c0-11e8-8a52-a2f63ad88895.jpg)
 
 # Truck
 
