@@ -73,6 +73,18 @@
 
 # Truck
 
+## 1-2 Truck
+
+![](https://user-images.githubusercontent.com/18329853/39771449-3ea80b66-52c0-11e8-8401-a772248fb3c3.jpg)
+
+## 9-10 Truck 
+
+![](https://user-images.githubusercontent.com/6351798/39871495-124ff528-5433-11e8-8818-47f361130737.JPG)
+
+## 11 Truck
+
+![](https://user-images.githubusercontent.com/6351798/39871498-13c39e82-5433-11e8-9f34-5db779882f58.JPG)
+
 ## 20-21 Truck
 
 ![](https://user-images.githubusercontent.com/16547949/39871567-4bf73d2c-5433-11e8-817f-13a884c407df.JPG)
@@ -97,3 +109,15 @@
 ## 32 Truck
 
 ![](https://github.com/githubschool/dow-dmc/blob/beep-beep/missing-pages/20180320_220429.jpg?raw=true)
+
+## 48 Truck
+
+![](https://user-images.githubusercontent.com/6351798/39871485-10f9fea8-5433-11e8-9695-783a09aced40.JPG)
+
+## 49 Truck
+
+![](https://user-images.githubusercontent.com/6351798/39871501-159cd0e8-5433-11e8-946b-e2c3f2d78f39.JPG)
+
+## FINISHED truck
+
+![](https://user-images.githubusercontent.com/18329853/39771456-42fe684a-52c0-11e8-96ff-798b13448418.jpg)
