@@ -40,6 +40,10 @@
 
 ![](https://github.com/githubschool/dow-dmc/blob/cc878b22ac166affeb61cfa88d96f9965a916761/helicopter/20180320_220503.jpg?raw=true)
 
+## 31 Whirly bird
+
+![](https://user-images.githubusercontent.com/25671575/37693309-c6fbad56-2c8c-11e8-9607-c82cac06a275.jpg)
+
 ## FINISHED Whirly bird
 
 ![](https://user-images.githubusercontent.com/18329853/39771512-7dcef3ae-52c0-11e8-96f9-6bb67d6ed323.jpg)
@@ -85,6 +89,10 @@
 
 ![](https://user-images.githubusercontent.com/6351798/39871498-13c39e82-5433-11e8-9f34-5db779882f58.JPG)
 
+## 13 Truck
+
+![](https://user-images.githubusercontent.com/18329853/37693889-ba7952fa-2c90-11e8-97ca-c5293009d3d0.jpg)
+
 ## 20-21 Truck
 
 ![](https://user-images.githubusercontent.com/16547949/39871567-4bf73d2c-5433-11e8-817f-13a884c407df.JPG)
@@ -101,10 +109,17 @@
 
 ![](https://user-images.githubusercontent.com/16547949/39871586-5869728c-5433-11e8-9e6d-1d125011d986.JPG)
 
+## 29 Truck
+
+![](https://github.com/githubschool/dow-dmc/blob/73bbc26729537e630d7f258f5fc9cd96da3c9ef0/truck-yea/20180320_220405.jpg?raw=true)
 
 ## 30 Truck
 
 ![](https://github.com/githubschool/dow-dmc/blob/beep-beep/missing-pages/20180320_220415.jpg?raw=true)
+
+## 31 Truck
+
+![](https://github.com/githubschool/dow-dmc/blob/73bbc26729537e630d7f258f5fc9cd96da3c9ef0/truck-yea/20180320_220420.jpg?raw=true)
 
 ## 32 Truck
 
