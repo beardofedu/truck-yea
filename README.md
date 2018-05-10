@@ -1,3 +1,46 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Whirly bird](#whirly-bird)
+  - [1 Whirly bird](#1-whirly-bird)
+  - [5 Whirly bird](#5-whirly-bird)
+  - [6-7 Whirly bird](#6-7-whirly-bird)
+  - [8-10 Whirly bird](#8-10-whirly-bird)
+  - [11-12 Whirly bird](#11-12-whirly-bird)
+  - [13 Whirly bird](#13-whirly-bird)
+  - [14 Whirly bird](#14-whirly-bird)
+  - [21-22 Whirly bird](#21-22-whirly-bird)
+  - [23 Whirly bird](#23-whirly-bird)
+  - [29-30 Whirly bird](#29-30-whirly-bird)
+  - [31 Whirly bird](#31-whirly-bird)
+  - [FINISHED Whirly bird](#finished-whirly-bird)
+- [Trailer](#trailer)
+  - [1-2 Trailer](#1-2-trailer)
+  - [12 Trailer](#12-trailer)
+  - [13 Trailer](#13-trailer)
+  - [14 Trailer](#14-trailer)
+  - [15-16 Trailer](#15-16-trailer)
+  - [Finished trailer](#finished-trailer)
+- [Truck](#truck)
+  - [1-2 Truck](#1-2-truck)
+  - [9-10 Truck](#9-10-truck)
+  - [11 Truck](#11-truck)
+  - [13 Truck](#13-truck)
+  - [20-21 Truck](#20-21-truck)
+  - [20-23 Truck](#20-23-truck)
+  - [24-25 Truck](#24-25-truck)
+  - [26 Truck](#26-truck)
+  - [29 Truck](#29-truck)
+  - [30 Truck](#30-truck)
+  - [31 Truck](#31-truck)
+  - [32 Truck](#32-truck)
+  - [48 Truck](#48-truck)
+  - [49 Truck](#49-truck)
+  - [FINISHED truck](#finished-truck)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Whirly bird
 
 ## 1 Whirly bird
