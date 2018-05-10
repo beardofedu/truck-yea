@@ -16,3 +16,10 @@
 
 ![](https://user-images.githubusercontent.com/16547949/39871586-5869728c-5433-11e8-9e6d-1d125011d986.JPG)
 
+# 30 Truck
+
+![](https://github.com/githubschool/dow-dmc/blob/beep-beep/missing-pages/20180320_220415.jpg?raw=true)
+
+# 32 Truck
+
+![](https://github.com/githubschool/dow-dmc/blob/beep-beep/missing-pages/20180320_220429.jpg?raw=true)
